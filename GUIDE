@@ -9,13 +9,3 @@ GUIDE THROUGH:
 (3). If the 1st choice, type file name and the separator. If a custom separator isn't chosen the file will be split by line. 
 
 4. The attempts and seconds till it's found will be displayed.
-
-NOTE:
-
-Place your txt file into the folder with the .py / program.
-
-It's advised to use a file with common passwords.
-
-Not OPTIMAL. It may stress your PC.
-
-Multithreading soon........
